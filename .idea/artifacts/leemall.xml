@@ -1,6 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-war" name="leemall">
-    <output-path>$PROJECT_DIR$/out/artifacts/leemall</output-path>
-    <root id="root" />
-  </artifact>
-</component>
